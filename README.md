@@ -1,1 +1,4 @@
-# southeast_stikine_sockeye_salmon_forecasts_
+# Stikine River forecasts for sockeye salmon
+Please direct any questions to: Sara Miller (sara.miller@alaska.gov)
+
+Last updated: 2019
